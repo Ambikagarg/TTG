@@ -1,0 +1,165 @@
+.nave{
+	background-color: #343a40;
+	width: 100%;
+	margin: 0px auto;
+	
+	display: inline-block;
+}
+.logo{
+	float: left;
+	padding: 20px;
+}
+.points{
+	float: right;
+	margin-right: 450px;
+	
+}
+ul li {
+	color: #555;
+	display: inline-block;
+	text-align: center;
+	padding-right: 20px;
+	font-weight: 900;
+	font-family: Arial;
+}
+ul li a{
+	color: #555;
+	text-decoration: none;
+
+}
+ul li a:active{
+	color: white;
+	text-decoration: underline;
+}
+.count{
+	padding-top: 200px;
+	
+	display: inline-block;
+	background-image: url('http://tedxiitkharagpur.com/public/images/tedx19bg.jpg');
+	background-size: cover;
+	
+	height: 600px;
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 40px;
+	width: 100%;
+}
+span{
+	
+	
+}
+.days , .hours , .min ,.sec{
+	text-align: center;
+}
+.cd , .ch , .cm , .cs{
+	border: 0.5rem solid red;
+	display: inline-block;
+	padding-left: 2px;
+	padding-right: 2px;
+	font-family: 'Dosis', sans-serif;
+	margin: 0px;
+}
+.count2{
+	margin-left: 530px;
+}
+#dl{
+	text-align: center;
+}
+#ml{
+	text-align: center;
+}
+#sl{
+	text-align: center;
+}
+#hl{
+	text-align: center;
+}
+.date{
+	font-family: 'Dosis', sans-serif;
+	font-size: 3rem;
+	border: 6px solid rgba(255,255,255,0.8);
+	padding: 10px 40px;
+	width: 500px;
+	text-align: center;
+	margin-left: 400px;
+	margin-top: 10px;
+}
+sup{
+	font-size: 50%;
+	top: -0.8rem;
+	
+}
+.sn{
+	background-color: rgba(0,0,0,.03);
+	height: 40px
+	margin-top: 0px;
+	
+}
+.sn ul li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.sn ul li a:active{
+	    border: 1px solid transparent;
+	    background-color: #fff;
+	    border-radius: 0.5rem;
+	    height: 30px;
+	    padding: .75rem 1.25rem;
+
+	
+	
+
+
+}
+.para{
+	font-size: 1.15rem;
+	color: #888;
+	font-weight: 400;
+}
+
+.speakers{
+	text-align: center;
+	font-family: inherit;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+h1{
+	font-size: 2.5rem;
+}
+h2{
+	font-size: 2rem;
+}
+.im{
+	height: 240px;
+	width: 240px;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-bottom: 40px;
+
+}
+h4{
+	font-size: 1.5rem;
+}
+.p1,.p3,.p4{
+	padding-left: 110px;
+	display: inline-block;
+	float: left;
+	color: white;
+	font-family: 'Dosis', sans-serif;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.p2{
+	float: right;
+	padding-right: 100px;
+	font-family: 'Dosis', sans-serif;
+	color: white;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.tedxi{
+	background-image: url('http://tedxiitkharagpur.com/public/images/speakersTEDx.jpg');
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+	background-attachment: fixed;
+}
